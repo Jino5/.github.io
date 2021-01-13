@@ -1,23 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "Git hub 블로그 만들기"
+date: 2021-01-13 19:00:00 -0000
+categories: 
 ---
-JINOJINO
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Git hub 처음 접해봄.
 
-Jekyll also offers powerful support for code snippets:
+어렵네... svn, cvs 만 써보다 이걸 쓰려니 익숙치가 않음.
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+그리고 html로 Edit file 기능이 제대로 구현이 안되는듯.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+더 찾아봐야겠음.
