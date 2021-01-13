@@ -96,7 +96,7 @@ author:
   name             : "Jino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just Blog"
-  location         : "Somewhere"
+  location         : ""
   email            :
   links:
     - label: "Email"
